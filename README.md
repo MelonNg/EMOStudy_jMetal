@@ -1,6 +1,6 @@
 # EMOStudy_jMetal
 
-# This package contains the following EMO algorithms
+This package contains the following EMO algorithms:
 MOEA/AD (http://arxiv.org/abs/1704.02340)
 MOEA/D-AOOSTM (http://ieeexplore.ieee.org/document/7837621/)
 MOEA/D-AMOSTM (http://ieeexplore.ieee.org/document/7837621/)
